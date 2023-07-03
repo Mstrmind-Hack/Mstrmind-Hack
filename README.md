@@ -1,23 +1,21 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQFCHlHCXMvEnw/profile-displaybackgroundimage-shrink_200_800/0/1677806189312?e=2147483647&v=beta&t=6TuAEufjrzQtfLjmpmt45YDHU8sB81x5crdVKKLEZQc)
-![image](https://github.com/Mstrmind-Hack/Mstrmind-Hack/assets/104036615/39b97f59-9828-4bae-bec9-e2570577ce94)
-
-
-
 <h1 align="center">Welcome To My Profile!</h1>
 
 <h1 align="center">My Portfolio can be found on @mstrmind.hack [instagram]</h1>
+
+<p align="center">
+  <img src="https://github.com/Mstrmind-Hack/Mstrmind-Hack/assets/104036615/82a4a049-26d0-4ef3-a2e9-77c2a373cc48" alt="Sublime's custom image"/>
+</p>
+
+
 <h3 align="center">I am an Aerospace Engineer, Rocket Scientist, Ethical Hacker, Security Researcher and programmer, Curious about all things!</h3>
 <h1 align="center" style="color: skyblue" >Donations And Support!</h1>
 <h2 align="center">Venmo: https://account.venmo.com/u/mstrmind</h2>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstrmind-hack&label=Profile%20views&color=0e75b6&style=flat" alt="mstrmind-hack" /> </p>
 
 - 🔭 I’m currently working on **DOXED?, HOSTS, and BRUTE**
 
 - 💬 Ask me about **APIs, Python, API Scraping, Hybrid Rocket Propulsion, Aircraft Building, Drones**
-
 
 
 <h3 align="left">Connect with me:</h3>
